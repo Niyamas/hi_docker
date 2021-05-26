@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\moogl\\.virtualenvs\\hi_docker-gu82NSG2\\Scripts\\python.exe",
+    "emmet.includeLanguages": {
+        "django-html": "html",
+    }
+}
